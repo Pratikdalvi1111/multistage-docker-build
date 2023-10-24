@@ -24,6 +24,8 @@ Stage 1: Build the Flask Application
 Use a Python base image to build the Flask backend.
 Copy the backend source code and install dependencies.
 Build the Flask application.
+
+
 Stage 2: Final Image
 Use a minimal Python base image for the final image.
 Copy the built backend from Stage 1.
