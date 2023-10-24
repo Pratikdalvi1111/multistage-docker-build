@@ -1,12 +1,3 @@
-Table of Contents:
-Introduction
-Prerequisites
-Getting Started
-Usage
-Dockerfile Explanation
-Contributing
-License
-Introduction
 
 Modern application deployments often involve containerizing both the backend and frontend components. This project focuses on using a multistage Dockerfile to efficiently build a Flask backend application, creating a lightweight and secure Docker image.
 
